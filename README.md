@@ -2,8 +2,7 @@
 
  # second-repo 
 
-# updating
+# updatingg
 
-# cloning
 
 # updating from remote
